@@ -1,0 +1,5 @@
+#!name=内网直连
+#!desc=ip 为 10.x.x.x 是哟国内 DIRECT 策略
+
+[Rule]
+IP-CIDR,10.0.0.0/8,DIRECT
